@@ -119,7 +119,8 @@ Developed a habit-tracking app with smart recommendations, bite-sized content, a
 
 **Tools Used:** Figma, Adobe XD, Miro, Notion  
 
-![Project Two Preview](https://via.placeholder.com/800x400?text=Project+Two+Preview)
+![Project Two Preview](<img width="2000" height="1213" alt="image" src="https://github.com/user-attachments/assets/181a03cb-0793-47c5-85a3-ffda1ae6ab2c" />
+)
 
 ---
 
