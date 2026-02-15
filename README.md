@@ -1,56 +1,146 @@
-# Hola, soy Manlio Moguel Matuz | UX Designer 🎨✨
+# [Your Full Name]
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=XxlDoMxX&label=Perfil%20Visto&color=F24E1E&style=flat" alt="XxlDoMxX" />
-</p>
+**UI/UX Designer | User-Centered Design | Digital Experiences**
 
----
-
-### 🚀 Sobre mí
-Soy un **Diseñador UX/UI** apasionado por crear experiencias digitales que sean no solo visualmente atractivas, sino también funcionales y centradas en el usuario. Me especializo en transformar problemas complejos en interfaces intuitivas.
-
-- 🌍 Ubicado en: México
-- 🛠️ Actualmente trabajando en: Mi portafolio de proyectos en Figma
-- 🔭 Buscando colaborar en: Proyectos de Open Source y diseño de Apps móviles
-- 💬 Pregúntame sobre: **Figma, Prototipado, y Design Systems**
+*Designing meaningful digital experiences through research, empathy, and iteration.*
 
 ---
 
-### 🛠️ Mis Herramientas
-<p align="left">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML5" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-</p>
+## About Me
+
+I come from a background in Communication Sciences, where I developed a deep understanding of human behavior, messaging, and the psychology behind effective communication. This foundation naturally led me to discover my passion for UI/UX Design—a field where I can blend strategic thinking with creative problem-solving to craft user-centered digital experiences.
+
+My transition into UX has been driven by curiosity and a commitment to understanding users at every level. I'm passionate about usability research, information architecture, and creating intuitive interfaces that solve real problems. Whether it's conducting user interviews, building wireframes, or iterating on prototypes based on feedback, I thrive on turning insights into actionable design solutions.
+
+I approach every project with a growth mindset, constantly learning and refining my process. I believe great design is invisible—it anticipates needs, reduces friction, and enhances experiences without drawing attention to itself.
 
 ---
 
-### 🎨 Proyecto Destacado (Figma)
-*Haz clic en la imagen para ver el prototipo interactivo*
+## What I Do
 
-[<img src="https://img.freepik.com/free-vector/ui-ux-design-concept-landing-page_23-2148281358.jpg?w=1200" width="100%" alt="Preview de mi Diseño en Figma">](https://www.figma.com/file/TU_LINK_AQUI)
-
-> **Nota:** Sustituye la URL de la imagen de arriba por una captura real de tu mejor diseño para que se vea increíble.
-
----
-
-### 📊 Estadísticas de GitHub
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=XxlDoMxX&show_icons=true&theme=radical" alt="Estadísticas de XxlDoMxX" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxlDoMxX&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</p>
+- **UX Research** (Qualitative & Quantitative)
+- **Wireframing & Prototyping**
+- **User Flows & Information Architecture**
+- **Usability Testing**
+- **UI Design Systems**
+- **Interaction Design**
+- **Product Thinking**
+- **Data-driven design decisions**
 
 ---
 
-### 📫 Contacto
-<p align="left">
-<a href="https://linkedin.com/in/TU_USUARIO" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="tu-correo@ejemplo.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-</p>
+## Experience
+
+### UX Case Study: [Project Name]
+*A comprehensive redesign focused on improving user engagement and task completion rates.*
+
+- Conducted user interviews and surveys to identify pain points in the existing flow
+- Discovered that 68% of users abandoned tasks due to unclear navigation
+- Proposed a streamlined information architecture and intuitive navigation system
+- Prototyped and tested solutions using Maze, achieving a 45% improvement in task completion
+- **Tools Used:** Figma, Maze, Notion
+
+### Personal Project: [App/Website Name]
+*Designed a mobile-first experience to help users achieve [specific goal].*
+
+- Performed competitive analysis and user journey mapping
+- Identified key friction points during onboarding and feature discovery
+- Created low and high-fidelity wireframes with interactive prototypes
+- Validated design decisions through remote usability testing with 15 participants
+- **Tools Used:** Figma, Adobe XD, Miro
+
+### Academic Research Project: [Project Title]
+*Explored the impact of visual hierarchy on user decision-making in e-commerce interfaces.*
+
+- Designed and executed a mixed-methods research study
+- Analyzed quantitative metrics (time-on-task, click-through rates) and qualitative feedback
+- Synthesized findings into actionable design recommendations
+- Presented research insights to peers and faculty, receiving commendation for thoroughness
+- **Tools Used:** Maze, Figma, Adobe Illustrator
 
 ---
+
+## Skills
+
+### UX Skills
+- User Research
+- Personas
+- User Journeys
+- Wireframing
+- Prototyping
+- Usability Testing
+
+### UI Skills
+- Visual Design
+- Design Systems
+- Typography
+- Color Theory
+- Responsive Design
+
+### Soft Skills
+- Communication
+- Critical Thinking
+- Adaptability
+- Collaboration
+- Attention to Detail
+
+---
+
+## Tools & Technologies
+
 <p align="center">
-  <i>"El buen diseño es invisible."</i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="Adobe XD" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="50" height="50"/>
 </p>
+
+<p align="center">
+  <strong>Maze</strong> • <strong>ChatGPT</strong> • <strong>Claude</strong> • <strong>Notion</strong> • <strong>Miro</strong>
+</p>
+
+---
+
+## Featured Projects
+
+### 📱 Project One: [E-commerce Redesign]
+**Reimagining the checkout experience to reduce cart abandonment**
+
+**Problem:**  
+Users were abandoning their carts at a rate of 72%, citing a confusing checkout process and lack of trust signals.
+
+**Solution:**  
+Redesigned the checkout flow with a progress indicator, consolidated form fields, and integrated social proof elements. Created a mobile-first design that reduced friction and improved clarity at each step.
+
+**Tools Used:** Figma, Maze, Adobe Illustrator  
+
+![Project One Preview](https://via.placeholder.com/800x400?text=Project+One+Preview)
+
+---
+
+### 🌐 Project Two: [Health & Wellness App]
+**Designing a personalized wellness companion for busy professionals**
+
+**Problem:**  
+Target users struggled to maintain healthy habits due to time constraints and lack of personalized guidance.
+
+**Solution:**  
+Developed a habit-tracking app with smart recommendations, bite-sized content, and progress visualization. Focused on micro-interactions that encourage daily engagement without overwhelming users.
+
+**Tools Used:** Figma, Adobe XD, Miro, Notion  
+
+![Project Two Preview](https://via.placeholder.com/800x400?text=Project+Two+Preview)
+
+---
+
+## Contact
+
+📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
+💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)  
+💻 **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+
+---
+
+*Thank you for visiting my portfolio. I'm always open to connecting with fellow designers, researchers, and anyone passionate about creating better digital experiences.*
