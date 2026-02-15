@@ -31,32 +31,21 @@ I approach every project with a growth mindset, constantly learning and refining
 
 ## Experience
 
-### UX Case Study: [Project Name]
-*A comprehensive redesign focused on improving user engagement and task completion rates.*
+### End-to-End Product Design Project
+*Comprehensive UI/UX project developed as part of an intensive design course, focused on building digital products from concept to high-fidelity prototype.*
 
-- Conducted user interviews and surveys to identify pain points in the existing flow
-- Discovered that 68% of users abandoned tasks due to unclear navigation
-- Proposed a streamlined information architecture and intuitive navigation system
-- Prototyped and tested solutions using Maze, achieving a 45% improvement in task completion
-- **Tools Used:** Figma, Maze, Notion
+The project simulated a real-world client scenario, covering the complete product design lifecycle from initial ideation to presentation-ready deliverables.
 
-### Personal Project: [App/Website Name]
-*Designed a mobile-first experience to help users achieve [specific goal].*
+**Overview**  
+This project involved designing a website or application starting from scratch, applying structured design methodologies and user-centered principles throughout every stage of the process.
 
-- Performed competitive analysis and user journey mapping
-- Identified key friction points during onboarding and feature discovery
-- Created low and high-fidelity wireframes with interactive prototypes
-- Validated design decisions through remote usability testing with 15 participants
-- **Tools Used:** Figma, Adobe XD, Miro
-
-### Academic Research Project: [Project Title]
-*Explored the impact of visual hierarchy on user decision-making in e-commerce interfaces.*
-
-- Designed and executed a mixed-methods research study
-- Analyzed quantitative metrics (time-on-task, click-through rates) and qualitative feedback
-- Synthesized findings into actionable design recommendations
-- Presented research insights to peers and faculty, receiving commendation for thoroughness
-- **Tools Used:** Maze, Figma, Adobe Illustrator
+**Process**
+- Conducted early-stage ideation and concept definition
+- Developed low-fidelity sketches and wireframes to explore layout and structure
+- Generated design inspiration individually, collaboratively, and with AI-assisted tools
+- Transitioned into mid-fidelity wireframes with refined hierarchy and interaction clarity
+- Built high-fidelity UI designs aligned with modern design standards
+- Created interactive prototypes with responsive behaviors to simulate real product functionality
 
 ---
 
